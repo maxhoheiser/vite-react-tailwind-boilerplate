@@ -17,15 +17,12 @@
   "plugins": ["react"],
   "rules": {
     "react/react-in-jsx-scope": "off",
-    "no-use-before-define": ["error", {"functions": false, "classes": false}]
-  }
+    "no-use-before-define": ["error", { "functions": false, "classes": false }]
+  },
   "react/function-component-definition": [
     2,
     {
-      "namedComponents": "function-declaration",
-    },
-  ],
+      "namedComponents": "function-declaration"
+    }
+  ]
 }
-
-
-
