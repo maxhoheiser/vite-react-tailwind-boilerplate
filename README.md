@@ -2,8 +2,6 @@
 
 ## Features:
 
----
-
 - 🚅 [Vite](https://vitejs.dev/)
 - 🎒 [React](https://reactjs.org/) template with vanilla - javascript
 - 🎨 [Tailwind CSS 3](https://tailwindcss.com/) integration
@@ -13,9 +11,8 @@
 - 🦊 Husky for Git Hooks
 - 🔥 Lint-staged for running linters on Git staged files
 
-## Quick Starter:
 
----
+## Quick Starter:
 
 Run the following commands in your parent folder:
 
